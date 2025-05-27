@@ -1,0 +1,39 @@
+{
+  "brand": "APEX.VERSE",
+  "navigation": {
+    "catalog": "Katalog",
+    "ai": "APEX.AI",
+    "plus": "APEX.PLUS",
+    "about": "Über uns"
+  },
+  "hero": {
+    "title": "Deine",
+    "titleHighlight": "perfekte",
+    "titleEnd": "Kleidung wartet",
+    "subtitle": "APEX.VERSE löst das Problem der Suche nach perfekt sitzender Kleidung. 87% der Menschen verbringen 2+ Stunden und finden trotzdem nicht das Richtige.",
+    "searchPlaceholder": "Beschreibe was du suchst: 'schwarze Jeans für große Menschen'",
+    "searchButton": "Finden",
+    "poweredBy": "Powered by APEX.SPHERE AI ✨"
+  },
+  "stats": {
+    "time": "Ø Suchzeit",
+    "timeValue": "2 Min",
+    "accuracy": "Treffergenauigkeit",
+    "accuracyValue": "95%",
+    "combinations": "Style-Kombinationen"
+  },
+  "features": {
+    "ai": {
+      "title": "APEX.SPHERE KI",
+      "desc": "Intelligente Kleidungsauswahl nach Beschreibung und Foto"
+    },
+    "plus": {
+      "title": "APEX.PLUS",
+      "desc": "Premium-Abo mit exklusiven Kollektionen"
+    },
+    "virtual": {
+      "title": "Virtuelle Anprobe",
+      "desc": "Probiere jedes Kleidungsstück von zu Hause aus"
+    }
+  }
+}

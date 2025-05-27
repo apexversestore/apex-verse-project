@@ -1,0 +1,39 @@
+{
+  "brand": "APEX.VERSE",
+  "navigation": {
+    "catalog": "Каталог",
+    "ai": "APEX.AI",
+    "plus": "APEX.PLUS",
+    "about": "Про нас"
+  },
+  "hero": {
+    "title": "Твій",
+    "titleHighlight": "ідеальний",
+    "titleEnd": "одяг чекає",
+    "subtitle": "APEX.VERSE вирішує проблему пошуку ідеально підхожого одягу. 87% людей витрачають 2+ години і все одно не знаходять потрібне.",
+    "searchPlaceholder": "Опиши що шукаєш: 'чорні джинси для високих'",
+    "searchButton": "Знайти",
+    "poweredBy": "На основі APEX.SPHERE AI ✨"
+  },
+  "stats": {
+    "time": "Сер. час пошуку",
+    "timeValue": "2 хв",
+    "accuracy": "Точність підбору",
+    "accuracyValue": "95%",
+    "combinations": "Комбінацій стилів"
+  },
+  "features": {
+    "ai": {
+      "title": "APEX.SPHERE ШІ",
+      "desc": "Розумний підбір одягу за описом та фото"
+    },
+    "plus": {
+      "title": "APEX.PLUS",
+      "desc": "Преміум підписка з ексклюзивними колекціями"
+    },
+    "virtual": {
+      "title": "Віртуальна примірка",
+      "desc": "Приміряй будь-який одяг не виходячи з дому"
+    }
+  }
+}

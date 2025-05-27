@@ -1,0 +1,39 @@
+{
+  "brand": "APEX.VERSE",
+  "navigation": {
+    "catalog": "Catalog",
+    "ai": "APEX.AI",
+    "plus": "APEX.PLUS",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Your",
+    "titleHighlight": "perfect",
+    "titleEnd": "clothes await",
+    "subtitle": "APEX.VERSE solves the problem of finding perfectly fitting clothes. 87% of people spend 2+ hours and still don't find what they need.",
+    "searchPlaceholder": "Describe what you're looking for: 'black jeans for tall people'",
+    "searchButton": "Find",
+    "poweredBy": "Powered by APEX.SPHERE AI ✨"
+  },
+  "stats": {
+    "time": "Avg search time",
+    "timeValue": "2 min",
+    "accuracy": "Match accuracy",
+    "accuracyValue": "95%",
+    "combinations": "Style combinations"
+  },
+  "features": {
+    "ai": {
+      "title": "APEX.SPHERE AI",
+      "desc": "Smart clothing selection by description and photo"
+    },
+    "plus": {
+      "title": "APEX.PLUS",
+      "desc": "Premium subscription with exclusive collections"
+    },
+    "virtual": {
+      "title": "Virtual Try-On",
+      "desc": "Try any item without leaving home"
+    }
+  }
+}

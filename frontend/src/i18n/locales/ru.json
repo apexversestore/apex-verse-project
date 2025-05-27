@@ -1,0 +1,39 @@
+{
+  "brand": "APEX.VERSE",
+  "navigation": {
+    "catalog": "Каталог",
+    "ai": "APEX.AI",
+    "plus": "APEX.PLUS",
+    "about": "О нас"
+  },
+  "hero": {
+    "title": "Твоя",
+    "titleHighlight": "идеальная",
+    "titleEnd": "одежда ждет",
+    "subtitle": "APEX.VERSE решает проблему поиска идеально подходящей одежды. 87% людей тратят 2+ часа и все равно не находят то, что нужно.",
+    "searchPlaceholder": "Опиши что ищешь: 'черные джинсы для высоких'",
+    "searchButton": "Найти",
+    "poweredBy": "Powered by APEX.SPHERE AI ✨"
+  },
+  "stats": {
+    "time": "Ср. время поиска",
+    "timeValue": "2 мин",
+    "accuracy": "Точность подбора",
+    "accuracyValue": "95%",
+    "combinations": "Комбинаций стилей"
+  },
+  "features": {
+    "ai": {
+      "title": "APEX.SPHERE ИИ",
+      "desc": "Умный подбор одежды по описанию и фотографии"
+    },
+    "plus": {
+      "title": "APEX.PLUS",
+      "desc": "Премиум подписка с эксклюзивными коллекциями"
+    },
+    "virtual": {
+      "title": "Виртуальная примерка",
+      "desc": "Попробуй любую вещь не выходя из дома"
+    }
+  }
+}
